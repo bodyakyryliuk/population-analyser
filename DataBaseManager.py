@@ -1,4 +1,3 @@
-# https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country
 import json
 import os
 import sqlite3
